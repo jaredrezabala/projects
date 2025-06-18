@@ -1,0 +1,73 @@
+[
+  {
+    "calendario": "Pollo-Pescado",
+    "fecha": "2025-06-17",
+    "hora": "07:30",
+    "comida": "desayuno",
+    "descripcion": "Avena con leche, plátano y almendras"
+  },
+  {
+    "calendario": "Pollo-Pescado",
+    "fecha": "2025-06-17",
+    "hora": "11:00",
+    "comida": "media mañana",
+    "descripcion": "Yogurt natural con semillas de chía"
+  },
+  {
+    "calendario": "Pollo-Pescado",
+    "fecha": "2025-06-17",
+    "hora": "12:30",
+    "comida": "almuerzo",
+    "descripcion": "Pollo a la plancha, arroz integral y ensalada verde"
+  },
+  {
+    "calendario": "Pollo-Pescado",
+    "fecha": "2025-06-17",
+    "hora": "16:00",
+    "comida": "merienda",
+    "descripcion": "Batido de proteína con leche de almendras"
+  },
+  {
+    "calendario": "Pollo-Pescado",
+    "fecha": "2025-06-17",
+    "hora": "19:30",
+    "comida": "cena",
+    "descripcion": "Sopa de verduras y 1 huevo duro"
+  },
+
+  {
+    "calendario": "Pollo-Pescado",
+    "fecha": "2025-06-18",
+    "hora": "07:30",
+    "comida": "desayuno",
+    "descripcion": "Tortilla de 2 huevos y tomate"
+  },
+  {
+    "calendario": "Pollo-Pescado",
+    "fecha": "2025-06-18",
+    "hora": "11:00",
+    "comida": "media mañana",
+    "descripcion": "Rodajas de pepino con limón"
+  },
+  {
+    "calendario": "Pollo-Pescado",
+    "fecha": "2025-06-18",
+    "hora": "12:30",
+    "comida": "almuerzo",
+    "descripcion": "Pescado al horno con quinua y vegetales"
+  },
+  {
+    "calendario": "Pollo-Pescado",
+    "fecha": "2025-06-18",
+    "hora": "16:00",
+    "comida": "merienda",
+    "descripcion": "Manzana con mantequilla de maní"
+  },
+  {
+    "calendario": "Pollo-Pescado",
+    "fecha": "2025-06-18",
+    "hora": "19:30",
+    "comida": "cena",
+    "descripcion": "Ensalada de atun con huevo y palta"
+  }
+]
