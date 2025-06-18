@@ -1,6 +1,0 @@
-2025/06/17-22:08:28.074 3cbc Reusing MANIFEST C:\Users\novic\whats-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2025/06/17-22:08:28.080 3cbc Recovering log #3
-2025/06/17-22:08:28.081 3cbc Reusing old log C:\Users\novic\whats-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
-2025/06/17-22:09:28.760 340c Level-0 table #5: started
-2025/06/17-22:09:28.773 340c Level-0 table #5: 20122 bytes OK
-2025/06/17-22:09:28.776 340c Delete type=0 #3
